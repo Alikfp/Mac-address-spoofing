@@ -10,7 +10,7 @@ A simple bash script that changes your mac address temporarily! The mac address 
 1. Change directory to that of the bash script
 2. Run the script with the wifi_interface  as the first argument. - [how to find my active wifi-interface?](https://askubuntu.com/questions/405508/how-to-find-name-of-currently-active-network-interface)
 ```
-bash mac_address_scoofer.sh e0
+bash mac_address_scoofer.sh YOUR_WIFI_INTERFACE (e.g: e0)
 ```
 
 Good Luck!
